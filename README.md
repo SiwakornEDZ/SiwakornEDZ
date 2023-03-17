@@ -23,6 +23,6 @@
 ### 😂 
 
 ---
-![][(https://visitcount.itsvg.in/api?id=SiwakornEDZ&icon=2&color=5)](https://visitcount.itsvg.in)
+![(https://visitcount.itsvg.in/api?id=SiwakornEDZ&icon=2&color=5)](https://visitcount.itsvg.in)
 
 
