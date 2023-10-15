@@ -13,7 +13,6 @@
 
 # 📊 GitHub Stats:
 [![wakatime](https://wakatime.com/badge/github/SiwakornEDZ/Kube.svg)](https://wakatime.com/badge/github/SiwakornEDZ/Kube)<br/>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@spcn21/4e7a159e-b59c-465b-abaa-28bfeb0ce226.png" /></a>
 ![](https://github-readme-stats.vercel.app/api?username=SiwakornEDZ&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SiwakornEDZ&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SiwakornEDZ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
