@@ -1,6 +1,6 @@
 # 💫 About Me:
-👋 Hi, I’m @SiwakornEDZ<br>👀 I’m interested in Python ml<br>🌱 I’m currently learning next.js & tailwind css & Devops<br>📫 How to reach me siwakorn2345@outlook.co.th<br>
-🌐 [My Portfolio](https://portsiwakorn.vercel.app/)
+👋 Hi, I’m @SiwakornEDZ<br>👀 I’m interested in Python ml<br>🌱 I’m currently learning Angular Typescript<br>📫 How to reach me siwakorn2345@outlook.co.th<br>
+🌐 [My Portfolio](https://portsiwakorn.vercel.app/) 👀 I’m Experience working as an intern at blendata for 4 weeks<br>
 
 
 ## 🌐 Socials:
