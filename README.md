@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @SiwakornEDZ<br>👀 I’m interested in Python ml , Golang(Gin)<br>🌱 I’m currently learning Angular Typescript , Springboot(Java)<br>📫 How to reach me siwakornqwer@gmail.com<br>
+👋 Hi, I’m @SiwakornEDZ<br>👀 I’m interested in Python ml , Golang(Gin)<br>🌱 I’m currently learning Next.js Typescript , Springboot(Java)<br>📫 How to reach me siwakornqwer@gmail.com<br>
 🌐 [My Portfolio](https://portsiwakorn.vercel.app/) <br>👀 I’m Experience working as an intern at blendata for 4 months<br>
 
 
