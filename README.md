@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m @SiwakornEDZ<br>👀 I’m interested in Python ml , Golang(Gin)<br>🌱 I’m currently learning Next.js Typescript , Springboot(Java)<br>📫 How to reach me siwakornqwer@gmail.com<br>
  <br>👀 I’m Experience working as an intern at blendata for 4 months Working
-<br>Adev 1 Years : Angular & boostrab & present working<br> mapboss 8M : Next,Nest,ant,mui,tailwinds,Zustand,tanstack<br>
+<br>Adev 1 Years : Angular & boostrab & present working<br> mapboss 1Y1M : Next,Nest,ant,mui,tailwinds,Zustand,tanstack<br>
 
 
 ## 🌐 Socials:
